@@ -2,4 +2,4 @@
   become: true
   user: vagrant
   roles:
-     - wtanaka.openvpn
+     - gorsuch.docker
